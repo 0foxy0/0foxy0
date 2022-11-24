@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @0foxy0.
 - 👀 I’m interested in new technologies!
-- 🌱 I’m currently learning Java and JavaScript
+- 🌱 I’m currently improving myself in Java and JavaScript
