@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @0foxy0.
-- 👀 I’m interested in new technologies!
-- 🌱 I’m currently improving myself in Java and JavaScript/TypeScript
+- 👀 I’m interested in new technologies and I love to test and learn about them!
+- 🌱 I’m currently improving myself in Java/Kotlin and JavaScript/TypeScript
